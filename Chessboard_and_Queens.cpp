@@ -1,3 +1,5 @@
+// Blog resource : https://www.datagenetics.com/blog/august42012/
+
 #include <bits/stdc++.h>
 using namespace std;
 string g[8];
